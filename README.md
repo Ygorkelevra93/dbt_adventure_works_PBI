@@ -1,9 +1,8 @@
- +----------------------------------------------+
- |		CEA_AW_YGOR_LEAO		|
- |		29/10/2024			|
- |		ADVENTURE WORKS			|
- |						|
- +----------------------------------------------+
+
+ * CEA_AW_YGOR_LEAO
+ * Data: 29/10/2024
+ * Projeto: ADVENTURE WORKS
+ 
 
 # Repositórios GIT utilizados
 
