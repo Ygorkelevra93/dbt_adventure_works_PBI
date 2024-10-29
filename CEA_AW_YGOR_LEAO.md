@@ -6,6 +6,7 @@
 ## Repositórios GIT utilizados
 
 Arquivos e links úteis: https://github.com/Ygorkelevra93/dbt_adventure_works_PBI/
+
 Projeto dbt: https://github.com/Ygorkelevra93/dbt_adventure_works
 
 
