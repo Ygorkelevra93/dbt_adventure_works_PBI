@@ -22,4 +22,4 @@ Schema: FEA24_9.DBT_YGOR_MART.DIM_ERP__MOTIVO_VENDA
 URL: https://app.diagrams.net/#G1lIVhYD-vxwrHReCXKGIfhZPMAlkWxL8t#%7B%22pageId%22%3A%22eo697pPyfrqDPbB2Ju4N%22%7D
 
 ## Link para vídeo explicativo
-URL: 
+URL: https://www.youtube.com/watch?v=5mIyOnEtluU
